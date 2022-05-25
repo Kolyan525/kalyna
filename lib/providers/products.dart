@@ -26,7 +26,7 @@ class Products with ChangeNotifier {
             '100% cotton\n Screen printing\n Jacquard label on front\n Comfortable and adjusted fit',
         price: 24.00,
         imageUrl:
-            'https://www.mantoshop.eu/eng_pl_MANTO-t-shirt-HANDS-black-2837_3.jpg'),
+            'https://mantoshop.eu/eng_pl_MANTO-t-shirt-HANDS-black-2837_3.jpg'),
     Product(
         id: 'p4',
         title: 'MANTO X JANEK T-SHIRT BIG LOGO BLACK',
